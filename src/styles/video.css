@@ -1,0 +1,17 @@
+.video-container {
+    position: relative;
+    /* To position title over thumbnail */
+    margin-bottom: 20px;
+}
+
+.video-title {
+    position: absolute;
+    bottom: 10px;
+    /* Adjust positioning as needed */
+    left: 10px;
+    color: white;
+    /* Or any color that contrasts with the video thumbnail */
+    font-size: 18px;
+}
+
+/* Additional styling for video container, list items, etc. */
